@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Farhad </h1>
 
 <p align='center'>
-  I'm a Backend Developer
+  <b>I'm a Backend Developer</b>
 </p>
 
 <p align='center'>
